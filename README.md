@@ -1,6 +1,6 @@
 # NYC-taxi-trip-time-prediction
 
-# nyc
+
 
 </p>
 <h1 align="center"> Nyc Taxi Trip Time Prediction </h1>
